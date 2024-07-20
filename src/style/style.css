@@ -1,0 +1,39 @@
+
+a{
+    text-decoration: none;
+    color:black
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+}
+#banner{
+    height: 300px;
+    padding: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 80px;
+    background-image: url('https://i.gifer.com/J4o.gif');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    line-height: 300px;
+    margin-top: 2px;
+    border: 1px solid gray;
+}
+#footer{
+    background-color: black;
+    color: white;
+    padding:30px;
+    text-align: center;
+    font-size: 40px;
+    margin: 20px 0 10px 0;
+}
+.categories{
+    /* background-color: rgb(212, 212, 212); */
+    border: rgb(193, 193, 193) 2px solid;
+}
+
